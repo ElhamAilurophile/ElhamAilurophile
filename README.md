@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElhamAilurophile
 - 👀 I’m interested in Game Design.
 - 🌱 I’m currently learning Game Design, Unity Scripting, 3D Modeling and Digital Art.
-- 💞️ I’m looking to I’m looking for start my career as an entry-level game designer.
+- 💞️ I’m looking for start my career as an entry-level game designer.
 - 📫 Elham.ghassemi.marzbal@gmail.com
 
 <!---
